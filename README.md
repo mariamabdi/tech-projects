@@ -25,7 +25,7 @@ The goal of this portfolio is to demonstrate my ability to:
 
 ## 📂 Projects
 
-### 1. **Finance Management Backend API**
+### 1. **Finance Management API**
 - **Description:** A RESTful backend API for tracking expenses, income, and financial data.
 - **Technologies:** Node.js, Express, JSON
 - **Features:** CRUD operations, JSON responses, error handling
